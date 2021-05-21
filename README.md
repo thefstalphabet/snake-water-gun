@@ -1,4 +1,4 @@
-# Snake-water-gun-game
+# snake-water-gun-game
 
 It is a snake, water, gun game like rock, paper, scissors.
 
